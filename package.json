@@ -1,0 +1,35 @@
+{
+  "name": "generator-woocommerce-payment-gateway",
+  "version": "0.1.0",
+  "description": "Yeoman WooCommerce Payment Gateway plugin generator",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "PinchOfCode/generator-woocommerce-payment-gateway",
+  "author": {
+    "name": "Pinch Of Code",
+    "email": "info@pinchofcode.com",
+    "url": "https://github.com/PinchOfCode"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "woocommerce",
+    "payment",
+    "gateway",
+    "wordpress",
+    "plugin"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.17.0",
+    "chalk": "^0.5.0",
+    "yosay": "^0.3.0"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  }
+}
