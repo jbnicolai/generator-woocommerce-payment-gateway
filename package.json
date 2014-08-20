@@ -4,7 +4,7 @@
   "description": "Yeoman WooCommerce Payment Gateway plugin generator",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "PinchOfCode/generator-woocommerce-payment-gateway",
+  "repository": "https://github.com/PinchOfCode/generator-woocommerce-payment-gateway",
   "author": {
     "name": "Pinch Of Code",
     "email": "info@pinchofcode.com",

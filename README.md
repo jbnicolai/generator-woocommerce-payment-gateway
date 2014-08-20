@@ -1,6 +1,6 @@
 # generator-woocommerce-payment-gateway
 
-[![Build Status](https://secure.travis-ci.org/sir-daniel/generator-woocommerce-payment-gateway.png?branch=master)](https://travis-ci.org/sir-daniel/generator-woocommerce-payment-gateway) [![Support us](http://img.shields.io/gittip/SiR-DanieL.svg)](https://www.gittip.com/SiR-DanieL/)
+[![Build Status](https://secure.travis-ci.org/PinchOfCode/generator-woocommerce-payment-gateway.png?branch=master)](https://travis-ci.org/PinchOfCode/generator-woocommerce-payment-gateway) [![Support us](http://img.shields.io/gittip/SiR-DanieL.svg)](https://www.gittip.com/SiR-DanieL/)
 
 > [Yeoman](http://yeoman.io) generator
 
