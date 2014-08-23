@@ -39,6 +39,14 @@ And run me:
 $ yo woocommerce-payment-gateway
 ```
 
+### Changelog
+
+#### 0.2.0
+* Add: basic gateway class methods
+
+#### 0.1.0
+* First release
+
 ### Getting To Know Yeoman
 
 Yeoman has a heart of gold. He's a person with feelings and opinions, but he's very easy to work with. If you think he's too opinionated, he can be easily convinced.
